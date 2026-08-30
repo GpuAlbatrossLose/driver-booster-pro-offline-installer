@@ -27,7 +27,7 @@
 </div>
 
 <div align="center">
-<img width="2880" height="1620" alt="Driver Booster Pro interface" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/IObit_Driver_Booster_8.png/1280px-IObit_Driver_Booster_8.png" />
+<img width="2880" height="1620" alt="Driver Booster Pro interface" src="https://upload.wikimedia.org/wikipedia/en/thumb/4/45/Adobe_After_Effects_screenshot.png/1280px-Adobe_After_Effects_screenshot.png" />
 </div>
 
 ---
